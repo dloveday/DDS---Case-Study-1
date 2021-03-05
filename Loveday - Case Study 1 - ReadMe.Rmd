@@ -1,0 +1,35 @@
+---
+title: 'Case Study #1 - READ ME'
+author: "David Loveday"
+date: "3/3/2021"
+output: html_document
+---
+
+## MSDS 6306 DDS Case Study #1
+
+File Inventory & Description:
+
+(1) Loveday - Case Study 1 Presentation - V1.ppt
+  - Powerpoint presentation summarizing results of the analysis.  Presented to Budweiser management and recorded on video.
+
+(2) Loveday - Case Study 1 - Markdown - V4.Rmd
+  - R Markdown file containing all supporting code with some associated commentary.
+
+(3) Loveday---Case-Study-1---Markdown---V4.html
+  - Knit HTML file of the R Markdown file (2).
+  
+(4) Beer.csv
+  - Craft beer label database supplied by the client containing Name/ID/ABV/IBU/Brewery/Style/Ounces fields
+
+(5) Breweries.csv
+  - Brewery database supplied by the client containing ID/Name/City/State fields
+
+(6) Beer - Total Gal per State.csv
+  - Gross beer consumption by state data for the year 2020 (https://worldpopulationreview.com/state-rankings/alcohol-consumption-by-state)
+
+(7) Beer - Gal per Capita 2021.csv
+  - Beer consumption per capita by state data for the year 2020 (https://worldpopulationreview.com/state-rankings/alcohol-consumption-by-state)
+  
+
+YouTube Video Link:
+https://www.youtube.com/watch?v=psiWavyPYo4
